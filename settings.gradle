@@ -1,0 +1,4 @@
+rootProject.name = 'mircoservice'
+include 'database'
+include 'web'
+
